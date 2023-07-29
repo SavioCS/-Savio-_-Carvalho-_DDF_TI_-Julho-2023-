@@ -1,4 +1,4 @@
-#Case 1
+Case 1
 
 Acredito que a melhor forma de saber o feedback do cliente sobre a eficiência da
 equipe de suporte através de uma análise de dados, seria com um sistema de contato direto
@@ -13,7 +13,7 @@ que a equipe de suporte atendeu o chamado, o tempo necessário para a sua conclu
 com qual eficiência o problema foi solucionado e se houve a necessidade de refazer o
 chamado.
 
-#Case 3
+Case 3
 
 Acredito que uma, se não a melhor forma para manter a segurança e integridade do
 sistema de gestão de acesso seja realizar a organização da estrutura do banco de dados no
@@ -22,7 +22,7 @@ imutáveis de identidades e permissões de acesso. Ou seja, ao utilizar a descen
 criptografia, os dados de acesso se tornam muito mais seguros e transparentes, reduzindo
 assim o risco de fraudes e violações.
 
-#Case 5
+Case 5
 
 SELECT *
 FROM users_emails
